@@ -4,4 +4,4 @@
 
 - CSS;
 - Tailwind;
-- CharJS;
+- Chart JS;
